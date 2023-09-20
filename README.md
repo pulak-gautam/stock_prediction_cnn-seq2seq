@@ -1,1 +1,1 @@
-# stock_prediction_cnn-seq2seq
+# Stock Prediction using Seq2Seq CNN
